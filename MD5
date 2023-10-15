@@ -1,0 +1,12 @@
+20155e88e8dda774c33ac9ddc4d4241e *DESCRIPTION
+05da0fdfd9055d857e7b7d98f2759796 *NAMESPACE
+73e8329fe26e59effa91564fadd38622 *R/global.R
+b32964ea44d8e5589186fe49d7e48e89 *R/nRegression.R
+4f6579af5e38db6baf3b90fed24c36ce *build/vignette.rds
+2eeabb2d9cd62b95a859afc7d53452fa *inst/doc/Introduction_to_nRegression.R
+ec39cdb07dfe094acc4f0f85469cc73e *inst/doc/Introduction_to_nRegression.Rmd
+f125a62f8b9fc21f49159a0e3daf895d *inst/doc/Introduction_to_nRegression.html
+cd04cf3e2b20393ce37b13c9e1e2cdd6 *man/nRegression.Rd
+b24a5974b05e6bc51cd91279459e1cbe *tests/testthat.R
+4176e3c367eec6f9d309f945ae292649 *tests/testthat/test-nRegression.R
+ec39cdb07dfe094acc4f0f85469cc73e *vignettes/Introduction_to_nRegression.Rmd
